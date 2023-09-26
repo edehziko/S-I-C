@@ -1,0 +1,61 @@
+#div{
+    height: 100vh;
+    width: auto;
+    border: 2px;
+    border-radius: 20px;
+    border-color: black;
+    background-color: wheat;
+    color: black;
+}
+h2{
+    text-align: center;
+}
+body{
+    background-color: black;
+    color: wheat;
+    text-align: center;
+}
+input, label{
+    height: 30px;
+    width: 50px;
+    color: black;
+    font-weight: 900;
+    font: 500;
+    font-size: 20px;
+    margin-top: 50px;
+    background-color: transparent;
+    border-top: 5px black;
+    border-left: 5px;
+    border-right: 5px;
+}
+input{
+    border-bottom: 3px solid;
+}
+#Tlabel{
+    margin-left: 50px;
+}
+#Rlabel{
+    margin-left: 50px;
+}
+#Plabel{
+    margin-left: 20px;
+}
+#SI{
+    font: 600;
+    font-weight: 600;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 60px;
+}
+#SubmitBtn{
+    background-color: black;
+    color: wheat;
+    font-weight: 900;
+    font-style: italic;
+    height: 50px;
+    width: 200px;
+    text-align: center;
+    border-radius: 10px;
+    border: 5px solid;
+    margin-top: 70px;
+}
